@@ -1,6 +1,6 @@
 export const semesterOptions = [
   {
-    label: "Autum",
+    label: "Autumn",
     value: "01",
   },
   {
