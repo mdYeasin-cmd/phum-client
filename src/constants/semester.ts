@@ -12,3 +12,9 @@ export const semesterOptions = [
     value: "03",
   },
 ];
+
+export const semesterStatusOptions = [
+  { value: "UPCOMING", label: "Upcoming" },
+  { value: "ONGOING", label: "Ongoing" },
+  { value: "ENDED", label: "Ended" },
+];
