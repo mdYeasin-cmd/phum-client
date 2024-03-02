@@ -19,7 +19,7 @@ import {
   useGetAcademicFacultiesQuery,
 } from "../../../redux/features/admin/academicManagement.api";
 import { weekDaysOptions } from "../../../constants/global";
-import PHTimePicker from "../../../components/form/PHDatePicker";
+import PHTimePicker from "../../../components/form/PHTimePicker";
 
 const OfferCourse = () => {
   const [courseId, setCourseId] = useState("");
